@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner">
+  <a href="https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner">
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -62,19 +62,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
 
-[![Product Name Screen Shot][TheWinning-screenshot]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][TheWinning-screenshot]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
 
-[![Product Name Screen Shot][product-screenshot1]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot2]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot3]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot4]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot5]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot6]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
-[![Product Name Screen Shot][product-screenshot7]](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot1]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot2]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot3]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot4]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot5]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot6]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
+[![Product Name Screen Shot][product-screenshot7]](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
 
 On souhaite créer une application de jeux en ligne nomée "The Winner" pour se faire on a besoin de créer une API en Node JS et consommer en React JS le déroulement de l'application est comme suit:
 
@@ -118,7 +118,7 @@ How to excute application:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner
+   git clone https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner
    ```
 2. Install NPM packages
    ```sh
@@ -153,9 +153,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yassine Cherkaoui - [@CherkaouiYa](https://twitter.com/CherkaouiYa) - yassin.cherkaoui2000@gmail.com
 
-Project Link: [https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner](https://github.com/YassineCherkaoui/Application_de_jeux_en_ligne_nomee_The_Winner)
+Project Link: [https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner](https://github.com/smailkaddi/Application_de_jeux_en_ligne_nomee_The_Winner)
 
 
 
